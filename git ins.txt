@@ -1,0 +1,13 @@
+1.) open git gui
+2.) open project in git gui
+3.) remote -> fetch from -> origin
+4.) merge -> local merge
+5.) merge on  popup
+
+//do work
+
+6.) click rescan
+7.) staged changed
+8.) message describing change
+9.) commit
+10.) push
